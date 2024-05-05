@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\protectedapi\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{44EE2816-9D0D-459C-9BED-B03E1B2F49AF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\authserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -82,7 +82,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\Startup.cs",
               "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProtectedApi.http",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\ProtectedApi.http",
               "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.http",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\Program.cs",
               "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
@@ -121,20 +121,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\Controller\\ValuesController.cs",
               "RelativeDocumentMoniker": "ProtectedApi\\Controller\\ValuesController.cs",
               "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\Controller\\ValuesController.cs",
               "RelativeToolTip": "ProtectedApi\\Controller\\ValuesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T12:16:30.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProtectedApi",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\ProtectedApi.csproj",
               "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.csproj",
@@ -151,9 +151,9 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\appsettings.json",
               "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\appsettings.json*",
-              "RelativeToolTip": "ProtectedApi\\appsettings.json*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\ProtectedApi\\appsettings.json",
+              "RelativeToolTip": "ProtectedApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-05T12:15:14.333Z",
               "EditorCaption": ""
@@ -173,6 +173,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
+              "RelativeToolTip": "AuthServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T11:26:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Models\\LoginRequest.cs",
@@ -182,19 +195,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T11:53:50.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
-              "RelativeToolTip": "AuthServer\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-05T11:26:50.069Z",
               "EditorCaption": ""
             },
             {
