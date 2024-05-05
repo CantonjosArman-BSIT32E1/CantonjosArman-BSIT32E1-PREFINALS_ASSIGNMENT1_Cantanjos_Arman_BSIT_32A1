@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\authserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|c:\\users\\arman\\documents\\github\\cantonjosarman-bsit32e1-prefinals_assignment1_cantanjos_arman_bsit_32a1\\prefinals_auth_cantonjos_arman\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3834A1AD-672B-4B28-8BAA-B047787A91E8}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,17 +54,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthServer.http",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\AuthServer.http",
+              "RelativeDocumentMoniker": "AuthServer\\AuthServer.http",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\AuthServer.http",
+              "RelativeToolTip": "AuthServer\\AuthServer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-05T12:01:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Controllers\\AuthController.cs",
               "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAAbAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T11:57:07.527Z",
               "EditorCaption": ""
@@ -80,72 +97,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthServer",
-              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\AuthServer.csproj",
-              "RelativeDocumentMoniker": "AuthServer\\AuthServer.csproj",
-              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\AuthServer.csproj",
-              "RelativeToolTip": "AuthServer\\AuthServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-05T11:45:32.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "AuthServer\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\JwtSettings.cs",
-              "RelativeToolTip": "AuthServer\\JwtSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:50:34.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Program.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
-              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Program.cs",
-              "RelativeToolTip": "AuthServer\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAIwC0AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:46:43.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Core\\IAuthService.cs",
               "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
               "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Core\\IAuthService.cs",
               "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T11:36:25.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Core\\IUserService.cs",
               "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
               "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Core\\IUserService.cs",
               "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T11:36:11.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
+              "RelativeToolTip": "AuthServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T11:26:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Core\\User.cs",
               "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
@@ -158,20 +149,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\appsettings.json",
-              "RelativeToolTip": "AuthServer\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-05T11:26:50.069Z",
+              "DocumentIndex": 0,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "AuthServer\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\JwtSettings.cs",
+              "RelativeToolTip": "AuthServer\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:50:34.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "AuthServer",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\AuthServer.csproj",
+              "RelativeDocumentMoniker": "AuthServer\\AuthServer.csproj",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\AuthServer.csproj",
+              "RelativeToolTip": "AuthServer\\AuthServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T11:45:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Secret.cs",
               "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Secret.cs",
               "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
@@ -180,6 +184,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T11:25:57.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Arman\\Documents\\GitHub\\CantonjosArman-BSIT32E1-PREFINALS_ASSIGNMENT1_Cantanjos_Arman_BSIT_32A1\\PREFINALS_AUTH_CANTONJOS_ARMAN\\AuthServer\\Program.cs",
+              "RelativeToolTip": "AuthServer\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:46:43.305Z",
               "EditorCaption": ""
             }
           ]
